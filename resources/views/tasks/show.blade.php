@@ -23,7 +23,7 @@
     <div class="row tm-row tm-mb-40">
         <div class="col-12">
             <hr class="tm-hr-primary tm-mb-55">
-            <img src="{{asset("assets/admin/img/photo1.png")}}" alt="" style="width:100%; border-radius: 8px">
+            <img src="{{asset("assets/admin/img/tasks.jpg")}}" alt="" style="width:100%; border-radius: 8px">
         </div>
     </div>
     {{--    <div class="row tm-row tm-mb-40">
